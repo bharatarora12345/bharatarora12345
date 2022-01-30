@@ -1,4 +1,3 @@
-<img src="https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured-1280x720.jpg" alt="What is Software Engineering? Definition, Need &amp;amp; Attributes" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 535px; height: 244.688px; margin: 0px;">
 <h1 align="center">Hi 👋, I'm Bharat Arora</h1>
 <h3 align="center">A pre-final year student pursuing my Btech in Computer science and engineering . I love exploring every and every field I can get my hands over and try to learn as much as possible.</h3>
 
