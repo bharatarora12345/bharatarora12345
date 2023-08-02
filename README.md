@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Arora</h1>
-<h3 align="center">A pre-final year student pursuing my Btech in Computer science and engineering . I love exploring every and every field I can get my hands over and try to learn as much as possible.</h3>
+<h3 align="center">A Passionate Software Developer . I love exploring every and every field I can get my hands over and try to learn as much as possible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatarora12345&label=Profile%20views&color=0e75b6&style=flat" alt="bharatarora12345" /> </p>
 
