@@ -11,10 +11,10 @@ I'm a backend-focused Software Engineer with **4+ years** of experience (includi
 
 ### What I'm doing now
 
-- **Senior Software Engineer @ Nirvana Solutions** (May 2026 – present): performance engineering and backend development on enterprise systems
-- Previously **Senior Software Engineer @ thinkbridge** (Feb – May 2026)
-- Previously **Staff Consultant @ Oracle Financial Services Software** (Mar 2025 – Feb 2026): enterprise banking platform for Yes Bank, BBPS / NBBL BharatPay payment integration (ECIES, ECDSA, JWS/JWE), Azure AD / Microsoft Entra ID SSO
-- Previously **Software Developer @ MyAnatomy Integration** (Jul 2023 – Mar 2025; Technical Intern from Mar 2022): live proctoring platform (Agora.io, chunked uploads), course management and Razorpay payments
+- **Senior Software Engineer @ Nirvana Solutions** (May 2026 – present): performance optimization and production stability for a large-scale enterprise platform
+- Previously **Senior Software Engineer @ thinkbridge** (Feb – May 2026): Azure AD / Microsoft Entra ID Single Sign-On for a large enterprise application
+- Previously **Staff Consultant @ Oracle Financial Services Software** (Mar 2025 – Feb 2026): credit-card servicing modules and encrypted BBPS / NBBL BharatPay integration (ECIES, ECDSA, JWS/JWE) for Yes Bank
+- Previously **Software Developer @ MyAnatomy Integration** (Jul 2023 – Mar 2025; Technical Intern from Mar 2022): Razorpay payments, a live proctoring platform and an audit log service
 
 ### Highlights
 
