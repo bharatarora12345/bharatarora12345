@@ -41,11 +41,6 @@ I'm a backend-focused Software Engineer with **4+ years** of experience (includi
 
 ### GitHub stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatarora12345&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatarora12345&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 <p align="left"><img src="https://streak-stats.demolab.com/?user=bharatarora12345&theme=tokyonight&hide_border=true" alt="GitHub streak" /></p>
 
 ---
